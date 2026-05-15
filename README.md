@@ -5,7 +5,7 @@
 
 # EpicCheatEngine
 The Better Hub Universal Script
-<img width="1920" height="1081" alt="InShot_20260514_232228701" src="https://github.com/user-attachments/assets/6c5029bc-92f2-4951-98b0-ab9adfb66cf7" />
+<img width="1920" height="1081" alt="Epic Photo" src="https://github.com/user-attachments/assets/6c5029bc-92f2-4951-98b0-ab9adfb66cf7" />
 # Features
 • Better Scripts
 <br>
